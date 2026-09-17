@@ -1,0 +1,225 @@
+{
+  "collection": "ARTT3005 — Twenty Ways of Looking at a Tap",
+  "records": [
+    {
+      "id": "REC-001",
+      "title": "The tap, straight on",
+      "type": "image",
+      "file": "media/tap-01.jpg",
+      "date": "2026-09-12",
+      "place": "kitchen sink",
+      "recorder": "Sylvie",
+      "not_captured": "the sound it was making while I stood there",
+      "certainty": 4
+    },
+    {
+      "id": "REC-002",
+      "title": "The spout, too close",
+      "type": "image",
+      "file": "media/tap-02.jpg",
+      "date": "2026-09-12",
+      "place": "kitchen sink",
+      "recorder": "Sylvie",
+      "not_captured": "the scale — you cannot tell this is a tap and not a building",
+      "certainty": 2
+    },
+    {
+      "id": "REC-003",
+      "title": "Looking up from the basin",
+      "type": "image",
+      "file": "media/tap-03.jpg",
+      "date": "2026-09-12",
+      "place": "kitchen sink",
+      "recorder": "Sylvie",
+      "not_captured": "how awkward it was to crouch there, and how long I could hold it",
+      "certainty": 3
+    },
+    {
+      "id": "REC-004",
+      "title": "Running into a glass",
+      "type": "image",
+      "file": "media/tap-04.jpg",
+      "date": "2026-09-13",
+      "place": "kitchen sink",
+      "recorder": "Sylvie",
+      "not_captured": "the temperature of the water. It was cold and I can't show that.",
+      "certainty": 3
+    },
+    {
+      "id": "REC-005",
+      "title": "One drip, mid-air",
+      "type": "image",
+      "file": "media/tap-05.jpg",
+      "date": "2026-09-13",
+      "place": "kitchen sink",
+      "recorder": "Sylvie",
+      "not_captured": "the next drip, and the one after that. A photograph of a drip is a lie about time.",
+      "certainty": 1
+    },
+    {
+      "id": "REC-006",
+      "title": "The tap at night",
+      "type": "image",
+      "file": "media/tap-06.jpg",
+      "date": "2026-09-13",
+      "place": "kitchen sink",
+      "recorder": "Sylvie",
+      "not_captured": "the silence of the flat around it",
+      "certainty": 4
+    },
+    {
+      "id": "REC-007",
+      "title": "Thirty seconds of running water",
+      "type": "sound",
+      "file": "media/tap-running.mp3",
+      "date": "2026-09-14",
+      "place": "kitchen sink",
+      "recorder": "Sylvie",
+      "not_captured": "the pressure change when the downstairs neighbour flushed. You can almost hear it but not quite.",
+      "certainty": 4
+    },
+    {
+      "id": "REC-008",
+      "title": "What the tap is, in words",
+      "type": "text",
+      "file": "media/tap-description.txt",
+      "date": "2026-09-14",
+      "place": "kitchen sink",
+      "recorder": "Sylvie",
+      "not_captured": "the words I didn't use. Every description is a deletion.",
+      "certainty": 2
+    },
+    {
+      "id": "REC-009",
+      "title": "From the doorway",
+      "type": "image",
+      "file": "media/tap-09.jpg",
+      "date": "2026-09-14",
+      "place": "kitchen doorway",
+      "recorder": "Sylvie",
+      "not_captured": "the distance. It looks like any tap from here, which is the point.",
+      "certainty": 3
+    },
+    {
+      "id": "REC-010",
+      "title": "Its shadow on the sink",
+      "type": "image",
+      "file": "media/tap-10.jpg",
+      "date": "2026-09-14",
+      "place": "kitchen sink",
+      "recorder": "Sylvie",
+      "not_captured": "the shadow kept moving and I only got one version",
+      "certainty": 2
+    },
+    {
+      "id": "REC-011",
+      "title": "With the dishes in the sink",
+      "type": "image",
+      "file": "media/tap-11.jpg",
+      "date": "2026-09-15",
+      "place": "kitchen sink",
+      "recorder": "Sylvie",
+      "not_captured": "whose dishes they were, and why they were there",
+      "certainty": 3
+    },
+    {
+      "id": "REC-012",
+      "title": "Wiped dry",
+      "type": "image",
+      "file": "media/tap-12.jpg",
+      "date": "2026-09-15",
+      "place": "kitchen sink",
+      "recorder": "Sylvie",
+      "not_captured": "the effort of drying it. A clean tap is a record of labour that the photo erases.",
+      "certainty": 2
+    },
+    {
+      "id": "REC-013",
+      "title": "A hand on the handle",
+      "type": "image",
+      "file": "media/tap-13.jpg",
+      "date": "2026-09-15",
+      "place": "kitchen sink",
+      "recorder": "Sylvie",
+      "not_captured": "the grip. How much force it takes. You can't see that.",
+      "certainty": 3
+    },
+    {
+      "id": "REC-014",
+      "title": "The handle, macro",
+      "type": "image",
+      "file": "media/tap-14.jpg",
+      "date": "2026-09-15",
+      "place": "kitchen sink",
+      "recorder": "Sylvie",
+      "not_captured": "the wear on it — the little scratches that mean twenty years of hands",
+      "certainty": 3
+    },
+    {
+      "id": "REC-015",
+      "title": "The reflection on the tap",
+      "type": "image",
+      "file": "media/tap-15.jpg",
+      "date": "2026-09-16",
+      "place": "kitchen sink",
+      "recorder": "Sylvie",
+      "not_captured": "what the reflection was reflecting. You can see a shape but not what made it.",
+      "certainty": 2
+    },
+    {
+      "id": "REC-016",
+      "title": "The handle, from my point of view",
+      "type": "image",
+      "file": "media/tap-16.jpg",
+      "date": "2026-09-16",
+      "place": "kitchen sink",
+      "recorder": "Sylvie",
+      "not_captured": "the angle I had to hold my body at to get this. The photo is still. I was not.",
+      "certainty": 3
+    },
+    {
+      "id": "REC-017",
+      "title": "Morning light",
+      "type": "image",
+      "file": "media/tap-17.jpg",
+      "date": "2026-09-16",
+      "place": "kitchen sink",
+      "recorder": "Sylvie",
+      "not_captured": "the time. 7:12am. The photo doesn't say that unless I say it.",
+      "certainty": 4
+    },
+    {
+      "id": "REC-018",
+      "title": "Evening light",
+      "type": "image",
+      "file": "media/tap-18.jpg",
+      "date": "2026-09-16",
+      "place": "kitchen sink",
+      "recorder": "Sylvie",
+      "not_captured": "how different it looked and how it's the same tap",
+      "certainty": 4
+    },
+    {
+      "id": "REC-019",
+      "title": "Dry, off, nothing happening",
+      "type": "image",
+      "file": "media/tap-19.jpg",
+      "date": "2026-09-16",
+      "place": "kitchen sink",
+      "recorder": "Sylvie",
+      "not_captured": "the fact that it's waiting. Taps wait. You can't photograph waiting.",
+      "certainty": 3
+    },
+    {
+      "id": "REC-020",
+      "title": "The tap, straight on, again",
+      "type": "image",
+      "file": "media/tap-20.jpg",
+      "date": "2026-09-16",
+      "place": "kitchen sink",
+      "recorder": "Sylvie",
+      "not_captured": "what changed between this and the first one. Almost nothing. That's the record.",
+      "certainty": 5
+    }
+  ]
+}
