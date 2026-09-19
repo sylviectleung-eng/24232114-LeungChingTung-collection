@@ -1,0 +1,10 @@
+My subject is the kitchen tap in my flat. It is disappearing in the way most things disappear: not by going away, but by never being looked at. It has been there every day and I had never once recorded it until now. It is not gone. It is here but unrecorded, and that is a kind of disappearance too — the disappearance of the unnoticed.
+
+The twenty records have one thing in common: they are all the same tap. Different days, different distances, different light, different media, but one object. My heading is "Twenty Ways of Looking at a Tap." The argument inside it is that attention is not the same as documentation. I looked at this tap twenty times and I still cannot say I know it. Each record proves the same thing: the closer I got, the less I could hold.
+
+The odd one out is REC-005, the drip caught mid-air. It is the only record that tries to freeze time, and it fails. A photograph of a drip is a lie about time — it shows a thing that never existed as a still. I kept it because its failure is honest. Certainty: 1/5. That low number is the most truthful thing in the collection.
+
+
+What the collection cannot hold is the tap's ordinary life. It cannot hold the water pressure changing when someone downstairs flushes. It cannot hold the temperature of the water, or the sound of the drip continuing after I stopped recording. It cannot hold the reflection on the tap — REC-015 shows a shape but not what made it. It cannot hold the twenty years of hands that wore down the handle. My most honest not_captured field is REC-020: "what changed between this and the first one. Almost nothing. That's the record." The collection is twenty proofs that nothing happened, and that nothing happening is worth recording.
+
+If I could not go back next week, the collection would become a record of a lost tap. But I can go back. That is the problem. The tap will still be there. The collection will still be incomplete.
