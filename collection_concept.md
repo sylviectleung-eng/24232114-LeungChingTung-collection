@@ -4,6 +4,7 @@ The twenty records have one thing in common: they are all the same tap. Differen
 
 The odd one out is REC-005, the drip caught mid-air. It is the only record that tries to freeze time, and it fails. A photograph of a drip is a lie about time — it shows a thing that never existed as a still. I kept it because its failure is honest. Certainty: 1/5. That low number is the most truthful thing in the collection.
 
+The collection is mostly images — eighteen of them — with one sound record and one text record. The sound is thirty seconds of running water. The text is a description of the tap in words. Neither replaces the images, and the images do not replace them. Together they still miss most of what the tap is.
 
 What the collection cannot hold is the tap's ordinary life. It cannot hold the water pressure changing when someone downstairs flushes. It cannot hold the temperature of the water, or the sound of the drip continuing after I stopped recording. It cannot hold the reflection on the tap — REC-015 shows a shape but not what made it. It cannot hold the twenty years of hands that wore down the handle. My most honest not_captured field is REC-020: "what changed between this and the first one. Almost nothing. That's the record." The collection is twenty proofs that nothing happened, and that nothing happening is worth recording.
 
